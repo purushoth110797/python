@@ -1,1 +1,1 @@
-# python
+# python class notes and assignments
